@@ -1,7 +1,7 @@
 # Unirest for Node.js 
 
 
-[Unirest](http://unirest.io) is a set of lightweight HTTP libraries available in multiple languages, built and maintained by [rasysbox](https://github.com/raulrobinson/rasysbox-nodejs), who also maintain the open-source API Gateway [rasysbox](https://github.com/raulrobinson/rasysbox-nodejs). 
+[Unirest](http://unirest.io) is a set of lightweight HTTP libraries available in multiple languages, built and maintained by [RASYSBOX](https://github.com/raulrobinson/rasysbox-nodejs), who also maintain the open-source API Gateway [RASYSBOX](https://github.com/raulrobinson/rasysbox-nodejs). 
 
 
 ## Installing
