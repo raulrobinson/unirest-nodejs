@@ -7,7 +7,7 @@
 ![][unirest-logo]
 
 
-[Unirest](http://unirest.io) is a set of lightweight HTTP libraries available in multiple languages, built and maintained by [Kong](https://github.com/Kong), who also maintain the open-source API Gateway [Kong](https://github.com/Kong/kong). 
+[Unirest](http://unirest.io) is a set of lightweight HTTP libraries available in multiple languages, built and maintained by [rasysbox](https://github.com/raulrobinson/rasysbox-nodejs), who also maintain the open-source API Gateway [rasysbox](https://github.com/raulrobinson/rasysbox-nodejs). 
 
 
 ## Installing
@@ -786,27 +786,5 @@ unirest.get('http://google.com').jar(CookieJar).end(function (response) {
 
 ----
 
-Made with &#9829; from the [Kong](https://www.konghq.com/) team
+Made with &#9829; from the [RASYSBOX](https://www.rasysbox.com/) team
 
-[unirest-logo]: http://cl.ly/image/2P373Y090s2O/Image%202015-10-12%20at%209.48.06%20PM.png
-
-
-[license-url]: https://github.com/Kong/unirest-nodejs/blob/master/LICENSE
-
-[gitter-url]: https://gitter.im/Kong/unirest-nodejs
-[gitter-image]: https://img.shields.io/badge/Gitter-Join%20Chat-blue.svg?style=flat
-
-[travis-url]: https://travis-ci.org/Kong/unirest-nodejs
-[travis-image]: https://img.shields.io/travis/Kong/unirest-nodejs.svg?style=flat
-
-[npm-url]: https://www.npmjs.com/package/unirest
-[npm-license]: https://img.shields.io/npm/l/unirest.svg?style=flat
-[npm-version]: https://badge.fury.io/js/unirest.svg
-[npm-downloads]: https://img.shields.io/npm/dm/unirest.svg?style=flat
-
-[codeclimate-url]: https://codeclimate.com/github/Kong/unirest-nodejs
-[codeclimate-quality]: https://img.shields.io/codeclimate/github/Kong/unirest-nodejs.svg?style=flat
-[codeclimate-coverage]: https://img.shields.io/codeclimate/coverage/github/Kong/unirest-nodejs.svg?style=flat
-
-[david-url]: https://david-dm.org/Kong/unirest-nodejs
-[david-image]: https://img.shields.io/david/Kong/unirest-nodejs.svg?style=flat
